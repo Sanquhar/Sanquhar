@@ -24,6 +24,14 @@ With a strong background in Communication Systems, I have a deep interest in sta
 
 ### Personal & Side Projects
 
+### Market Prediction App
+- **Description**: A web application built with Streamlit to predict the closing prices of stock tickers (such as AAPL, TSLA, MSFT) based on historical data. The app uses graphical analysis techniques, including moving averages and stock variance, calculated from the previous 20 days of data.
+- **Models**: Two basic models are currently implemented:
+  - A **simple MLP (Multi-layer Perceptron)** model.
+  - A basic **LSTM (Long Short-Term Memory)** model.
+- **Current Limitations**: The app is still in development. Improvements are needed in the user interface, model refinement (cross-validation), and feature engineering (combining data from multiple stocks and analyzing correlations).
+- **Link**: [Market Prediction App](https://market-p8qwtca6ent3mcsqvkfrkc.streamlit.app/)
+
 ---
 
 ## Achievements
