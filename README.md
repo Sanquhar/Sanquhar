@@ -5,7 +5,7 @@ With a strong background in Communication Systems, I have a deep interest in sta
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Academic Projects (EPFL)
 
