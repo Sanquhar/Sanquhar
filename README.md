@@ -30,7 +30,8 @@ With a strong background in Communication Systems, I have a deep interest in sta
      - A **simple MLP (Multi-layer Perceptron)** model.
      - A basic **LSTM (Long Short-Term Memory)** model.
    - **Current Limitations**: The app is still in development. Improvements are needed in the user interface, model refinement (cross-validation), and feature engineering (combining data from multiple stocks and analyzing correlations).
-
+ - ⚠️ **Attention**: It is possible that the app may fail to download data from Yahoo Finance due to high traffic and shared IP limitations on Streamlit Cloud.  
+     If that happens, clone the repository ([GitHub Repo](https://github.com/Sanquhar/market)), install the `requirements.txt`, and run `run_app.bat` locally.
 
 ---
 
